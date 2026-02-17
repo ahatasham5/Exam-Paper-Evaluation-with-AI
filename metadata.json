@@ -1,0 +1,5 @@
+{
+  "name": "ExamAI Evaluator",
+  "description": "An end-to-end system for extracting handwritten student answers from exam papers using Gemini AI, supporting Bengali and English, and performing automated evaluation against a master answer key.",
+  "requestFramePermissions": []
+}
